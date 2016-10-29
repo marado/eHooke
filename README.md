@@ -1,13 +1,10 @@
-***********************************************************
-*****************                        ******************
-**************           eHooke              **************
-*****************                        ******************
-***********************************************************
-       Open source microscopy image processing suite
-                     Version: 0.01
+# eHooke
 
-***********************************************************
-******                   DISCLAIMER                  ******
+Open source microscopy image processing suite
+
+*Version:* 0.01
+
+## DISCLAIMER
 
 This software is provided "as is", with no explicit or 
 implied warranties. The authors disclaim any express or 
@@ -25,32 +22,25 @@ software, even if advised of the possibility of such damage.
 
 In other words, use this software at your own risk. 
 
-***********************************************************
-******                   Copyright                   ******
+## Copyright
 
 This software is public domain. You have the right to copy, 
 distribute, reuse, modify, improve and debug it. Especially
 the last one.
 
-***********************************************************
-******                Running eHooke                 ******
+## Running eHooke
 
 To run eHooke you need Python 2.7 and the following 
-libraries: numpy, scipy, matplotlib, scikit-image
+libraries: numpy, scipy, matplotlib, scikit-image.
   
-***********************************************************
-******               Acknowledgements                ******
+## Acknowledgements
 
-   This work was partially supported by European Research
-          Council grant ERC-2012-StG-310987
+This work was partially supported by European Research
+Council grant ERC-2012-StG-310987.
 
-***********************************************************
-******                    Authors                    ******
+## Authors
+* [Ludwig Krippahl](https://github.com/lkrippahl)
+* [Bruno Saraiva](https://github.com/brunomsaraiva)
 
-      Ludwig Krippahl                Bruno Saraiva
-     GitHub:lkrippahl             GitHub:brunomsaraiva
-
-***********************************************************
-
-                 Source code available at:
-           https://github.com/lkrippahl/eHooke
+## Source code
+Source code available at: https://github.com/lkrippahl/eHooke
